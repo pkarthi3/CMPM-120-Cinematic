@@ -1,0 +1,14 @@
+8 key requirements:
+- 3+ scenes: logo, main menu, loading screen, 2 scenes in cinematic proper (exposition, person with the paper)
+- 2+ audio assets: new game sound effect, picking up paper sound effect
+    - The new game sound effect samples the item sparkle sound effect by Mr._Fritz_ on Freesound.org (https://freesound.org/people/Mr._Fritz_/sounds/545238/) and was created by editing the pitch of and stretching layers of this sound effect in Audacity
+    - The paper sound effect is a recording of me picking up paper
+- 2+ image assets: logo image, main menu background, paper background, holding paper image
+    - The logo image and the image of the person holding the paper were drawn by me in Krita
+    - The main menu background is an old photo I took with several filters applied to it in Krita
+    - The paper background was created using several textured brushes in Krita, and is based off of a paper texture by Chris Fiedler on freestocktextures.com (https://freestocktextures.com/texture/old-paper-blank-page,1099.html)
+- 2+ geometric shapes: main menu sidebar, dialogue box and diamond marker at the start of dialogue in second part of cinematic proper
+- 1+ logotype text: text in logo
+- 1+ multi-line text: exposition text + dialogue in cinematic proper
+- 1+ fading scene transition: all scene transitions use fade in/fade out
+- 1+ object motion: animation of logo graphics, sidebar coming in from the left, numerous objects fading in
