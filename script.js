@@ -231,7 +231,7 @@ class Opening1 extends Phaser.Scene {
         this.tweens.add({
             targets: this.textObject,
             alpha: 1,
-            delay: 4500,
+            delay: 6500,
         });
 
         this.textObject = this.add.text(
@@ -244,7 +244,7 @@ class Opening1 extends Phaser.Scene {
         this.tweens.add({
             targets: this.textObject,
             alpha: 1,
-            delay: 6500,
+            delay: 10500,
         });
 
         this.textObject = this.add.text(
@@ -257,11 +257,11 @@ class Opening1 extends Phaser.Scene {
         this.tweens.add({
             targets: this.textObject,
             alpha: 1,
-            delay: 8500,
+            delay: 14500,
         });
 
         
-        this.time.delayedCall(13000, () => {
+        this.time.delayedCall(24000, () => {
             this.cameras.main.fadeOut();
             this.time.delayedCall(1000, () => {
                 this.scene.start('opening2');
